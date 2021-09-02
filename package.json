@@ -1,17 +1,25 @@
 {
-  "name": "Mongoose Node.js Template",
-  "version": "0.0.1",
-  "description": "Mongoose Node.js Template",
+  "name": "Mongoose-Nodejs-Template",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UnluckyFroggy/Mongoose-Nodejs-Template.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UnluckyFroggy/Mongoose-Nodejs-Template/issues"
+  },
+  "homepage": "https://github.com/UnluckyFroggy/Mongoose-Nodejs-Template#readme",
   "dependencies": {
     "express": "^4.17.1",
-    "mongoose": "^5.13.5",
+    "mongoose": "^6.0.4"
   }
 }
