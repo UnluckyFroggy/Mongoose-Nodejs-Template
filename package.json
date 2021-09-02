@@ -1,0 +1,17 @@
+{
+  "name": "Mongoose Node.js Template",
+  "version": "0.0.1",
+  "description": "Mongoose Node.js Template",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.5",
+  }
+}
