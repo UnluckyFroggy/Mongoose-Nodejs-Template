@@ -3,4 +3,6 @@ Mongoose Node.js Template. A Template for Mongoose using Node.js (Mongoose is an
 # Setup
 ### MongoDB Connection Setup
 #### Get your URI
-- Go to [mongodb.com](https://mongodb.com)
+- Go to [mongodb.com](https://mongodb.com).
+- On the home page, click "Connect".
+- 
