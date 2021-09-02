@@ -28,5 +28,3 @@ Mongoose Node.js Template. A Template for Mongoose using Node.js (Mongoose is an
 - Go to /data/mongo.js
 - Replace '<Mongo_URI>' with 'mongodb+srv://<DATABASE_ACCESS_USERNAME>:<DATABASE_ACCESS_PASSWORD>@<CLUSTER_NAME>.p4unt.mongodb.net/<DATABASE_NAME>?retryWrites=true&w=majority'.
 ### You are now setup! Run your code! 
-
-#temp
